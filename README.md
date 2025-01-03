@@ -32,5 +32,5 @@ Photovoltaic systems degrade over time, and accurately estimating their degradat
 
 ## 🛠 Installation & Running the Code
 ### Prerequisites
-- **Julia** (Version 1.8 or higher)
+- **Julia** (tested with Julia 1.17.9)
 - Required packages: `Distributions`
